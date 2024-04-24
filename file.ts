@@ -1,3 +1,5 @@
 const newfile = "ezra"
 
-console.log(newFile)
+console.log(newfile)
+
+console.log("ADDED FOURTH LIE")
